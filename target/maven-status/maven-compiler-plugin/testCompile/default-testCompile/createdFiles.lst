@@ -1,0 +1,5 @@
+com\code\challenge\repository\CodeRepositoryTest.class
+com\code\challenge\integration\CodeIT.class
+com\code\challenge\controller\CodeControllerTest.class
+com\code\challenge\service\CodeServiceCodeTest.class
+com\code\challenge\service\CodeServiceSaveTest.class
